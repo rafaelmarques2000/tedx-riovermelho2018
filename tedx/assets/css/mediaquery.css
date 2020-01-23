@@ -1,0 +1,480 @@
+@media screen and (max-width: 1024px) {
+
+    .img-inicio-direita {
+        right: 52vw!important;
+        width: 226%!important;
+        top: -1px!important;
+    }
+
+    #box-content-sobre-capa {
+        background: #fff;
+        padding: 40px;
+        width: 700px;
+        float: right;
+        position: relative;
+        right: 45px;
+        top: -44px!important;
+        font-family: "roboto";
+        height: 550px;
+        overflow: auto;
+        padding-top: 66px;
+    }
+
+    #titulo_sobre_alem {
+        color: #fff;
+        float: left;
+        background: #c71f1e;
+        padding: 10px;
+        font-family: "Roboto";
+        position: relative;
+        left: 4em!important;
+        top: 0.5em;
+        z-index: 20;
+    }
+    
+
+    .organizacao-content {
+        width: 76%;
+        margin: 0 auto;
+        margin-top: 11vh;
+        margin-left: 23vh;
+    }
+
+  
+.img-palestrantes{
+    width:105%!important;
+}
+
+.palestrantes-content{
+    width:100%;
+    position: absolute;
+    left:5vw!important;
+    top: 25vh!important;
+}
+
+.col-fotos{
+    margin-right: -50px!important;
+}
+
+.box-branco-palestrantes{
+    width:245px;    
+    background: #fff;
+    position: relative;
+    z-index: 1100;
+    top:0px;
+    height: 300px;
+    right: 0px;
+    left:0px;
+    bottom: 0px;
+    display: none;
+    
+
+}
+
+
+
+#row-label-1{
+    position: relative;
+    top:-300px;
+}
+
+#row-label-2{
+    position: relative;
+    top:-490px;
+}
+
+.col1-content {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+#conteiner_texto_2 {
+    overflow: hidden;
+    height: 93vh!important;
+}
+
+.btn-play,.btn-play:visited,.btn-play:active{
+    position: relative;
+    z-index: 1000;
+    top: -201px!important;
+    left: 38vw!important;
+    display: block;
+    width: 50px;
+    height: 50px;
+    background: #c71e1e;
+    text-align: center;
+
+}
+
+.img-play{
+    width: 30px!important;
+    position: relative;
+    top: -15.7vw!important;
+}
+
+.organizacao-content {
+    width: 77%!important;
+    margin: 0 auto;
+    margin-top: 11vh;
+    margin-left: 32vh;
+}
+
+.img-patrocinador{
+    width:130px;
+}
+
+#patrocinadores-content{
+    width:900px!important;
+}
+
+
+  
+#redes-socias {
+    position: fixed;
+    z-index: 25;
+    left: 55rem!important;
+    top: 1rem;
+    padding: 15px;
+    height: 50px;
+    text-align: center;
+}
+
+
+}
+
+@media screen and (max-width: 1366px) {
+
+    
+
+        .flexslider{
+        background: none!important;
+        width: 80%!important;
+        height: 822px!important;
+        margin-top: -5px!important;
+        border:none!important;
+        }
+        
+        .flex-viewport{
+        overflow: hidden!important;
+        position: relative!important;
+        width: 36%!important;
+        height: 525px!important;
+        float: left!important;
+        background-color: #fff!important;
+        }
+        
+        .flex-control-thumbs{
+            width: 58%!important;
+            margin-left: 37.5%!important;
+        }
+        
+        .flex-caption{
+            position: relative!important;
+            top: -52px!important;
+            background: #fff!important;
+            padding: 10px;
+            font-size: 10px;
+        }
+        
+        .palestrantes-label{
+            color:#c71f1e;
+            width: 100%;
+            font-size: 25px;
+            font-family: 'Roboto', sans-serif;
+            font-weight: bold;
+            padding: 10px;
+            position: relative;
+            margin-bottom: -23px;
+        
+          }
+          .texto-palestrantes{
+            margin-left: 6px!important;
+          }
+
+
+
+
+
+
+
+
+
+    #redes-socias {
+        position: fixed;
+        z-index: 25;
+        left: 76rem;
+        top: 1rem;
+        padding: 15px;
+        height: 50px;
+        text-align: center;
+    }
+
+
+.rodape-menu{
+    top:-67px;
+}
+
+#box-content-sobre-capa {
+    background: #fff;
+    padding: 40px;
+    width: 700px;
+    float: right;
+    position: relative;
+    right: 45px;
+    top: 34px;
+    font-family: "roboto";
+    height: 550px;
+    overflow: auto;
+    padding-top: 66px;
+}
+
+#titulo_sobre_alem {
+    color: #fff;
+    float: left;
+    background: #c71f1e;
+    padding: 10px;
+    font-family: "Roboto";
+    position: relative;
+    left: 11em;
+    top: 0.5em;
+    z-index: 20;
+}
+    
+    #seta_baixo {
+        position: fixed;
+        z-index: 23;
+        top: 37em;
+        text-align: center;
+        width: 50%;
+        /* margin: 0 auto; */
+        left: 30%;
+    }
+
+
+    #menu_nome {
+        position: fixed;
+        top: 61%!important;
+        left: 10px;
+        z-index: 70;
+        width: 50px;
+        padding: 10px;
+        color: #fff;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+    }
+
+   
+    #menu-itens{
+        height: 500px;
+        overflow: auto;
+    }
+
+    .vertical_align {
+        position: relative;
+        top: -1vw;
+    }
+
+    .vertical_align2 {
+        position: relative;
+        top: -2vw;
+    }
+
+    .sub-titulo {
+        color: #747373;
+        font-size: 26px;
+        position: relative;
+        top: -3vw;
+    }
+
+    .sub-titulo2 {
+        top: -5vw!important;
+    }
+
+
+    .texto-parte-2 {
+        color: #fff;
+        position: relative;
+        left: 46vw;
+        font-size: 2em!important;
+        font-weight: 600;
+        top: -21vh;
+        display: none;
+        font-family: 'Roboto', sans-serif;
+    }
+
+
+
+    .organizacao-content {
+        width: 85%;
+        margin: 0 auto;
+        margin-top: 11vh;
+        margin-left: 32vh;
+    }
+
+    .organizacao-content ul{
+        overflow: auto;
+        height: 500px;
+    }
+
+
+    #adquira_ingresso_content {
+        width: 105%;
+        border-top: solid 2px #fff;
+        margin-top: 10vh;
+        text-align: center;
+      }
+
+
+    .galeria-content {
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 14vh;
+        margin-left: 12vw;
+    }
+    
+    #patrocinadores-content {
+        width: 1200px;
+        margin: 0 auto;
+        margin-top: 3vw;
+        margin-left: 12vw;
+    }
+    
+
+
+
+    #img-sobre {
+        position: relative;
+        left: 5em;
+        width: 110%;
+        top: -1em;
+    }
+    
+.texto-inicio h1 {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 150px;
+    padding-top: 60px;
+    font-weight: 800;
+    font-size: 5em;
+    width: 546px;
+}
+        
+
+.img-inicio-direita {
+    right: 51vw;
+    width: 1366px;
+    top: -18px;
+}
+
+
+    .col-fotos{
+        margin-right: -49px!important;
+    }
+      
+
+    .palestrantes-content{
+        width:100%;
+        position: absolute;
+        left:13vw!important;
+        top: 13vh!important;
+    }
+
+    .img-palestrantes{
+        width:300px!important;
+    }
+
+    .col1-content {
+        width: 70%;
+        margin: 0 auto;
+        padding-top: 33px;
+    }
+
+    .slider-control {
+        background: #747373;
+        position: relative;
+        width: 100px;
+        left: 43.5vw!important;
+        top: -30.5vh!important;
+        padding: 10px;
+    }
+
+    #slider-titulo {
+        width: 100%;
+        height: 28vh;
+        overflow: hidden;
+    }
+
+    #conteiner_texto_2 {
+        overflow: hidden;
+        height: 84vh;
+    }
+
+    .btn-play,.btn-play:visited,.btn-play:active{
+        position: relative;
+        z-index: 1000;
+        top: -201px;
+        left: 28vw;
+        display: block;
+        width: 50px;
+        height: 50px;
+        background: #c71e1e;
+        text-align: center;
+    
+    }
+    
+    .img-play{
+        width: 30px!important;
+        position: relative;
+        top: -11.9vw;
+    }
+
+    #videos-content{
+        width:800px;
+        margin:0 auto;
+        height: 370px;
+        background:#fff;
+        position: relative;
+        top: 15%;
+        overflow: hidden;
+    }
+
+    #fotos-content-galeria{
+        width:800px;
+        margin: 0 auto;
+        margin-top: 200px;
+    }
+    
+
+    
+}
+
+@media screen and (max-width: 1920px) {
+
+    .col-fotos{
+        margin-right: -90px;
+    }
+      
+
+    .palestrantes-content{
+        width:100%;
+        position: absolute;
+        left:17vw;
+        top: 15vh;
+    }
+
+    .img-palestrantes{
+        width:400px;
+    }
+
+    .slider-control {
+        background: #747373;
+        position: relative;
+        width: 100px;
+        left: 45.5vw;
+        top: -24.7vh;
+        padding: 10px;
+    }
+
+    
+}
